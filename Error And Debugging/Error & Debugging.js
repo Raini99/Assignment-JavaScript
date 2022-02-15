@@ -31,6 +31,6 @@ const salaryWithConst = 15000000;
 
 
 //  a.  Jika kode diatas dijalankan maka akan terjadi error.
-//  b.  Error di atas merupakan jenis SyntaxError.
+//  b.  Error di atas merupakan jenis ReferenceError.
 //  c. Hal ini terjadi karena seharusnya variabel terlebih dahulu di definisikan baru kemudian dapat memanggil dengan
 //      syntax console.log.
